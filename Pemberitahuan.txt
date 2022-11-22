@@ -1,0 +1,1 @@
+mohon maaf pak, untuk connection dari php masih belum jalan. karena belum mengetahui errornya dimana dan untuk insert masih belum paham caranya pak :) terimakasih
